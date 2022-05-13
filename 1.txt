@@ -28,7 +28,7 @@ int main()
 			a[j + 1] = a[j];
 
 		a[j + 1] = buff; 
-               cout <<"Я списал 1000-7 хехе"<< endl;	
+         
 	}
 	/************* Конец сортировки *******************/
 
@@ -39,4 +39,3 @@ int main()
 	printf("Время выполнение программы %.4f(s)\n", ((double)end - start) / ((double)CLOCKS_PER_SEC));
 
 } 
-//spisano
